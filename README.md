@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LucasM314
-- 👀 I’m interested in programming and reverse engineering
-- 🌱 I’m currently learning python and C#
+- 👋 Hi, I’m @LucasM314, a twelfth grade (Terminale in France) french student
+- 👀 I’m actively learning programming through python and C#
+- 🌱 My interest is particularly in everything related to .NET reverse engineering
 - 📫 How to reach me: lucas.martiniano88@gmail.com
 
 <!---
