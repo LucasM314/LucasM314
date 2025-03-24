@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasM314, a twelfth grade (Terminale in France) french student
+- 👋 Hi, I’m @LucasM314, a student at CentraleSupélec
 - 👀 I’m actively learning programming through python and C#
 - 🌱 My interest is particularly in everything related to .NET reverse engineering
 - 📫 How to reach me: lucas.martiniano88@gmail.com
